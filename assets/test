@@ -1,2 +1,0 @@
-The map() function is a higher-order function used in many programming languages (like Python and JavaScript) to transform data by applying a specific operation to every item in a collection (like a list or array).
-It essentially takes an input, runs it through a "machine" (your function), and gives you a new output without changing the original data.
